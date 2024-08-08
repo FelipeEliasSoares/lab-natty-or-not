@@ -23,29 +23,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Neste projeto, explorei os princípios do livro "Como Fazer Amigos e Influenciar Pessoas", de Dale Carnegie, e criei um vídeo sobre eles usando a IA Vidzoz.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- ChatGPT para desenvolver o roteiro baseado nos princípios do livro.
+- Vidzoz IA para transformar o roteiro em um vídeo visualmente atraente.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiro, extraí os principais princípios do livro "Como Fazer Amigos e Influenciar Pessoas". Depois, pedi para o ChatGPT escrever um roteiro explicando esses princípios de forma clara e concisa. Em seguida, utilizei a IA Vidzoz para criar o vídeo, aproveitando suas capacidades de transformar o texto em conteúdo audiovisual.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O projeto resultou em um vídeo que apresenta os princípios de Dale Carnegie de maneira envolvente e estética, facilitando o entendimento e a aplicação das ideias.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Criar conteúdo 'natty' com IA é desafiador, mas a combinação de ferramentas como ChatGPT e Vidzoz possibilitou a criação de um projeto que equilibra estética e conteúdo de forma eficaz.
+
 ```
 
 ### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [Vídeo Criado)](([https://share.vidnoz.com/aivideo?id=737553](https://share.vidnoz.com/aivideo?id=7375538)))
 
-## Links Interessantes
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
