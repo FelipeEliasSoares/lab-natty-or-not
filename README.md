@@ -42,6 +42,6 @@ Criar conteúdo 'natty' com IA é desafiador, mas a combinação de ferramentas 
 
 ### Exemplos e Insigths
 
-- [Vídeo Criado](([https://share.vidnoz.com/aivideo?id=737553](https://share.vidnoz.com/aivideo?id=7375538)))
+- Confira o vídeo [aqui](https://share.vidnoz.com/aivideo?id=7375538).
 
 
